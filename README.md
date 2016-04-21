@@ -1,4 +1,4 @@
-# PanPlus
+# PanPlus - SideLoaded Tweak for Pandora Radio
 You can download song directly from the app, click Download Song from More Options popup.
 
 And from the downloads option in the side menu you can open in the songs in any other app.
