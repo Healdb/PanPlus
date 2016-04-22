@@ -15,4 +15,7 @@ And from the downloads option in the side menu you can open in the songs in any 
 
 **Installation**:
 
-* I used a modify version of PPSideLoader to modify the Pandora App
+1. Download the lastest version of PPSideloader from [here](https://github.com/eni9889/ppsideloader)
+2. Change the modify_app from the script folder with the on in this repository.
+3. Change app.ipa with the Pandora.ipa
+4. The rest if you haven't configured before, you have to continue from the Side loader repository.
