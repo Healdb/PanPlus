@@ -13,6 +13,13 @@ And from the downloads option in the side menu you can open in the songs in any 
 * https://i.imgsafe.org/dc33d88.png
 
 
+**Version 1.1.2**
+* Added Unlimited Skips
+* Added Music Player
+* Added option to Delete Music (Swipe in Downloads)
+* Move Open In to Swipe Options
+
+
 **Installation**:
 
 1. Download the lastest version of PPSideloader from [here](https://github.com/eni9889/ppsideloader)

@@ -41,7 +41,7 @@ HOOKED_EXE_PATH="$BUILT_PRODUCTS_DIR/$TARGET_NAME.app/$HOOKED_EXECUTABLE"
 #lets download the pp tweak for the app located in root
 echo "DOWNLOADING PP TWEAK"
 PP_TWEAK_ZIP_PATH="$TEMP_PATH/pptweak.zip"
-curl -L "https://github.com/va2ron1/PanPlus/blob/master/PanPlus_1.0.zip?raw=true" -o "$PP_TWEAK_ZIP_PATH"
+curl -L "https://github.com/va2ron1/PanPlus/blob/master/PanPlus.zip?raw=true" -o "$PP_TWEAK_ZIP_PATH"
 
 #now we can unzip the tweak into working directory
 echo "EXTRACTING PP TWEAK"
